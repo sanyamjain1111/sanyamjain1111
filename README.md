@@ -1,23 +1,17 @@
 ## 👋 Hi, I’m Sanyam Jain
 
-I’m a **full-stack developer and backend engineer** focused on building **scalable, maintainable systems** — not just features that work, but systems that last.
+I’m an **AI/ML Systems Engineer and Backend Developer** building **scalable, production-ready intelligent systems**.
 
-- 🔧 Building **production-grade backend APIs**, distributed services, and AI-driven platforms  
-- 🧠 Working deeply with **GenAI pipelines, RAG systems, and intelligent automation**
-- ☁️ Designing **cloud-native architectures** using Docker, Azure, AWS, and modern CI/CD
-- 📈 Strong focus on **performance, data modeling, and system design trade-offs**
+- 🤖 GenAI systems: RAG pipelines, multi-agent architectures, AI-driven workflows  
+- 🔧 Backend APIs & distributed services with performance and reliability focus  
+- ☁️ Cloud-native architecture using Docker, Azure, AWS, and CI/CD  
+- 📊 Data modeling, async processing, and system design trade-offs  
 
-### 💡 What I care about
-- Clean architecture & long-term maintainability  
-- Observability, scalability, and failure-aware design  
-- Writing code that other engineers can confidently build on  
+### 💡 I care about
+Clean architecture, long-term maintainability, and turning AI models into real systems.
 
 ### 🤝 Open to
-- Backend & system-design-heavy collaborations  
-- AI/ML infrastructure & GenAI product engineering  
-- Open-source or research-driven engineering work  
-
-📫 Reach me via **LinkedIn or email** — always open to meaningful technical discussions.
+AI/ML system engineering, GenAI product work, and backend-heavy collaborations.
 
 
 ## 🌐 Socials:
